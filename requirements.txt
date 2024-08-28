@@ -1,0 +1,10 @@
+ultralytics
+opencv-python>=4.6.0
+streamlit
+folium
+streamlit-folium
+plotly
+prophet
+numpy
+pandas
+statsmodels
